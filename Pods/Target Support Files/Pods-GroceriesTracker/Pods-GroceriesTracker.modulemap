@@ -1,0 +1,6 @@
+framework module Pods_GroceriesTracker {
+  umbrella header "Pods-GroceriesTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
