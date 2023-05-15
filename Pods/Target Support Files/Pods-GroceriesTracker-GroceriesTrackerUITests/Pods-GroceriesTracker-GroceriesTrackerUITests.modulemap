@@ -1,6 +1,0 @@
-framework module Pods_GroceriesTracker_GroceriesTrackerUITests {
-  umbrella header "Pods-GroceriesTracker-GroceriesTrackerUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
